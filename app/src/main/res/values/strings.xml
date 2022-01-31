@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">telegram</string>
+    <string name="app_name">Telegram</string>
+    <string name="description">Start Messaging</string>
+    <string name="the_world_s_fastest_messaging_app">The world\'s fastest messaging app.</string>
 </resources>
